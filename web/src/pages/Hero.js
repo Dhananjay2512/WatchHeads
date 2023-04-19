@@ -24,7 +24,7 @@ const Hero = () => {
             }}
           >
             <ContentContainer>
-              <h3>WatchHeads</h3>
+              <h3>WatchHeads.</h3>
               <h6>Time is a luxury</h6>
               <p>A Classic Collection of Luxurious Watches for the Real Gentlemen.</p>
 

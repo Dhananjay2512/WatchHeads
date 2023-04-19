@@ -12,8 +12,6 @@ const Product = () => {
     try {
       const options = {
         method: "GET",
-        // url: "https://fakestoreapi.com/products",
-        // url: "https://api.storerestapi.com/categories",
         url: "https://flipkart.dvishal485.workers.dev/search/wristwatch",
       };
 
